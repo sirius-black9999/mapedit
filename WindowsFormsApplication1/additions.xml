@@ -1,0 +1,25 @@
+<root>
+<entity type="5" variant="10" subtype="0" name="Red heart" />
+<entity type="5" variant="20" subtype="0" name="Coin" />
+<entity type="5" variant="40" subtype="0" name="Troll bomb" />
+<entity type="202" variant="0" subtype="2" name="Right turret" />
+<entity type="1000" variant="0" subtype="0" name="Rock" />
+<entity type="1001" variant="0" subtype="0" name="Rock bomb" />
+<entity type="1002" variant="0" subtype="0" name="Pot" />
+<entity type="1300" variant="0" subtype="0" name="TNT" />
+<entity type="1494" variant="0" subtype="0" name="Rainbow Poop" />
+<entity type="1495" variant="0" subtype="0" name="Corn Poop" />
+<entity type="1494" variant="0" subtype="0" name="Gold Poop" />
+<entity type="1490" variant="0" subtype="0" name="Red Poop" />
+<entity type="1500" variant="0" subtype="0" name="Poop" />
+<entity type="1900" variant="0" subtype="0" name="Block" />
+<entity type="1930" variant="0" subtype="0" name="Spikes" />
+<entity type="1931" variant="0" subtype="0" name="Retract spikes" />
+<entity type="1940" variant="0" subtype="0" name="Cobweb" />
+<entity type="3000" variant="0" subtype="0" name="Pit" />
+<entity type="4000" variant="0" subtype="0" name="Key block" />
+<entity type="4500" variant="0" subtype="0" name="Pressure Plate" />
+<entity type="9000" variant="0" subtype="0" name="Trap door" />
+<entity type="9100" variant="0" subtype="0" name="Staircase" />
+<entity type="10000" variant="0" subtype="0" name="Gravity" />
+</root>
